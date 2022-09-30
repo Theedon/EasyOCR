@@ -1,6 +1,7 @@
 number: '0123456789'
 symbol: "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~ ‘’“”€"
-lang_char: 'ABCDEFGHIJKLMḾḿM̀m̀NŃǸńǹOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁàáÈÉÊËèéêëÌÍìíÒÓÔÖòóôöÙÚùúṢṣ'
+#lang_char: 'ABCDEFGHIJKLMḾḿM̀m̀NŃǸńǹOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁàáÈÉÊËèéêëÌÍìíÒÓÔÖòóôöÙÚùúṢṣ'
+lang_char: None
 experiment_name: 'en_filtered'
 train_data: 'all_data'
 valid_data: 'all_data/en_val'
